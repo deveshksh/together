@@ -3,8 +3,17 @@
 A new Flutter project.
 
 ## Getting Started
+## 0. Features
+1. Discovery Page displaying items from a mock API.
+2. Pagination support for loading more items as the user scrolls.
+3. Graceful error handling for network failures or API errors.
+4. Visually appealing UI design with gradient backgrounds for each card.
+5. Smooth animations and transitions for loading and scrolling.
+6. Implementation of Flutter best practices and adherence to the Flutter style guide.
+7. Testing for various scenarios including edge cases.
+8. Comprehensive documentation including code comments, development choices, and instructions for running the app.
 
-## Development Choices:
+## 1.Development Choices:
 Random Colors Scheme and Dark Light mode:
 Chose a random color scheme to create a visually appealing UI.
 Used MaterialColor to define various shades of pink for consistent theming.
